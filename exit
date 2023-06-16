@@ -1,0 +1,63 @@
+[33mcommit bcf940b7f4fdbcc0d3c1a96f74c061e094d9b4bc[m[33m ([m[1;36mHEAD -> [m[1;32mlocalbranch[m[33m)[m
+Author: Shotty_Man <Jyssauco1@gmail.com>
+Date:   Fri Jun 16 18:30:44 2023 -0400
+
+    Made the necessary changes...
+
+[33mcommit 7795bfd67b6ba177439a02e7680a07d68d032b2a[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: neslisah <neslimsah@yahoo.com>
+Date:   Thu Jun 15 19:46:11 2023 -0400
+
+    Revert "Delete input.txt"
+    
+    This reverts commit dacd8ce2c6798763cf7d59922ea64da2ad2efadc.
+
+[33mcommit 93d39f6c88013ada048281e329f7c25b800a074f[m
+Author: neslisah <neslimsah@yahoo.com>
+Date:   Thu Jun 15 19:45:57 2023 -0400
+
+    Revert "Delete lab_assignment_5.c"
+    
+    This reverts commit 30fe1deff2f77a5e75055fe3b735b005bcbaa8a2.
+
+[33mcommit 30fe1deff2f77a5e75055fe3b735b005bcbaa8a2[m
+Author: Neslisah Torosdagli <ntorosda@amd.com>
+Date:   Thu Jun 15 18:26:38 2023 -0400
+
+    Delete lab_assignment_5.c
+    
+    It is not needed.
+
+[33mcommit dacd8ce2c6798763cf7d59922ea64da2ad2efadc[m
+Author: Neslisah Torosdagli <ntorosda@amd.com>
+Date:   Thu Jun 15 18:26:20 2023 -0400
+
+    Delete input.txt
+    
+    It is not needed.
+
+[33mcommit 8cfc21578aeed510510ef86a92ca59c3b9b95ed6[m
+Author: Neslisah Torosdagli <neslimsah@yahoo.com>
+Date:   Thu Feb 16 19:44:07 2023 -0500
+
+    Implemented length function
+
+[33mcommit 7275e500edc5fa27c682d64aff28ffa9b31adfc3[m
+Author: Neslisah Torosdagli <ntorosda@amd.com>
+Date:   Sat Feb 11 00:12:29 2023 -0500
+
+    Update README.md
+    
+    Added build details
+
+[33mcommit 9ff101504c7a5b6ec6b263c5a96c3c42590158ca[m
+Author: Torosdagli <ntorosda@amd.com>
+Date:   Fri Feb 10 22:18:46 2023 -0500
+
+    Added lab_assignment_5.c and the input file.
+
+[33mcommit 702025b96a359e11b647cb32d8d4bc67edeae1d5[m
+Author: Neslisah Torosdagli <neslisah.torosdagli@amd.com>
+Date:   Fri Feb 10 21:32:04 2023 -0500
+
+    Initial commit
